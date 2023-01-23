@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+h1 {
+  font-size: 100px;
+  text-align: center;
+  font-family: 'Lexend Deca';
+  color: #9b9b9b;
+}
+
+button {
+  background-color: #4f4f4f;
+  border-left: 15px solid #9b9b9b;
+  border-top: 15px solid #9b9b9b;
+  border-right: 15px solid #0f0f0f;
+  border-bottom: 15px solid #0f0f0f;
+  font-size: 100px;
+  color:rgb(43, 175, 49);
+  border-radius: 5px;
+  margin:25px;
+  font-family: 'Rubik Mono One';
+
+}
+
+button:active { 
+    border: 15px solid #0f0f0f;
+}
+
+.bt{
+    text-align: center;
+}
+
+.center{
+  display:inline-block;
+}
+
+.i{
+  text-decoration: none;
+  color: #9b9b9b;
+}
+
+body{
+  background-color:#1e1e1e;
+}
+
+p{
+  font-size: 102px;
+  color:#9b9b9b;
+}
